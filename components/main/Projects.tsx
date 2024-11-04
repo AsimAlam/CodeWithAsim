@@ -15,16 +15,19 @@ const Projects = () => {
           src="/FoodApp.png"
           title="Food App"
           description="Developed and deployed a robust full-stack web application with secure user login and signup functionality. Users can seamlessly add food items in specified quantities and access their comprehensive order history."
+          address="https://github.com/AsimAlam/FoodApp"
         />
         <ProjectCard
           src="/MusicPlayer.png"
           title="Interactive Website Cards"
           description="Created a pure JavaScript-based application to listen to music in real-time, featuring all functionalities of a typical music player. Users can enjoy an intuitive interface and a seamless listening experience."
+          address="https://github.com/AsimAlam/Music-Player"
         />
         <ProjectCard
           src="/Portfolio.png"
           title="Space Themed Website"
           description="Launched a modern portfolio website showcasing my resume and profiles from platforms like GitHub and LinkedIn. It provides detailed information about me, my experience, and the projects I have developed."
+          address="https://github.com/AsimAlam/CodeWithAsim"
         />
       </div>
     </div>
