@@ -6,7 +6,7 @@ interface Props {
   title: string;
   description: string;
   address: string;
-  demo: string;
+  demo?: string;
 }
 
 function ProjectCard({ src, title, description, address, demo }: Props) {
