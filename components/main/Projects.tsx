@@ -23,13 +23,13 @@ const Projects = () => {
         />
         <ProjectCard
           src="/MusicPlayer.png"
-          title="Interactive Website Cards"
+          title="Music Player"
           description="Created a pure JavaScript-based application to listen to music in real-time, featuring all functionalities of a typical music player. Users can enjoy an intuitive interface and a seamless listening experience."
           address="https://github.com/AsimAlam/Music-Player"
         />
         <ProjectCard
           src="/Portfolio.png"
-          title="Space Themed Website"
+          title="Asim Portfolio"
           description="Launched a modern portfolio website showcasing my resume and profiles from platforms like GitHub and LinkedIn. It provides detailed information about me, my experience, and the projects I have developed."
           address="https://github.com/AsimAlam/CodeWithAsim"
           demo="https://code-with-asim.vercel.app/"
