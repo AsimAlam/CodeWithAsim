@@ -9,6 +9,13 @@ const Projects = () => {
       </h1>
       <div className="max-w-7xl mx-auto grid grid-cols-1 sm:grid-cols-2 gap-10 px-6">
         <ProjectCard
+          src="/notification-service-pic1.png"
+          title="Realtime Notifications"
+          description="A Spring Boot + WebSocket (STOMP/SockJS) service that delivers persisted notifications and presence updates in real time, with ACKs, replay for missed messages, Redis-backed presence, and a small React UI for demos."
+          address="https://github.com/AsimAlam/Realtime-Notifications"
+          demo="https://realtime-notifications-service-frontend.onrender.com/"
+        />
+        <ProjectCard
           src="/whiteboard-s2.png"
           title="Collaborative Whiteboard"
           description="A full-stack real-time collaborative whiteboard application that enables multiple users to draw, add text, create shapes, and collaborate live. The application supports persistent canvas state storage, role-based access, and secure authentication via Google OAuth."
